@@ -9,7 +9,7 @@
 }
 
 .top-nav {
-  background-color: #50b189;
+  background-color: #50a2b1;
   display: flex;
   flex-wrap: wrap;
   font-family: 'Chelsea Market', cursive;
@@ -17,7 +17,7 @@
   vertical-align: middle;
 
   .nav-link {
-    background-color: #5a8ac3;
+    background-color: #5070b1;
     border-radius: 5px;
     color: white;
     font-size: 1.3em;
@@ -42,7 +42,7 @@
   }
 
   .title {
-    background-color: #5078b1;
+    background-color: #23509c;
     border-radius: 10px;
     color: #e2f7f7;
     padding: 5px;
@@ -57,7 +57,7 @@
 }
 
 .progress-container {
-  background: #16533a;
+  background: #5070b1;
   height: 8px;
   width: 100%;
   top: 0px;
@@ -65,7 +65,7 @@
 
 .progress-bar {
   height: 8px;
-  background: linear-gradient(210deg, #69bd71, #16533a, #16533a, #8950b1);
+  background: linear-gradient(210deg, #002c70, #184690, #184690, #5070b1);
   width: 0%;
 }
 
