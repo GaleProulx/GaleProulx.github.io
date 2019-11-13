@@ -24,4 +24,4 @@ Do four-year postsecondary institutions have different crime rates than two-year
 How has the overall trend in reported crimes for postsecondary institutions changed from 2009 to 2017?
 What connections are there, if any, between New England’s postsecondary institutions student demographics and crime rates?
 
-It is my hope that most of my research will be able to tie back to these questions while backing up the statements made by calls for submissions and interviews from the professional writing side.
+It is my hope that most of my research will be able to tie back to these questions while backing up the statements made by calls for submissions and interviews from the professional writing side. In regards to the rest of Chapter 3, I still am working hard to specify my test plan, criteria and constraints, and other sections that may be needed. A time frame for these sections will be specified soon in the next assignment.
