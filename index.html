@@ -5,7 +5,7 @@ title: Home
 
 <h1 class="page-header">Latest Posts</h1>
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
   <article class="post-preview">
 
     <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -20,5 +20,10 @@ title: Home
           <div class="category">{{ category }}</div>
         {% endfor %}      </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </div>  </article>
+    </div>
+  </article>
 {% endfor %}
+
+<article class="post-preview">
+    <h2 class="title"><a href="{{ site.baseurl }}/library">See All Posts</a><h2>
+</article>
