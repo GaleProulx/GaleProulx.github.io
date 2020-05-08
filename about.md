@@ -26,4 +26,4 @@ GitHub pages! This whole website is hosted for free through GitHub pages. All my
 
 # Who is Walter Proulx?
 
-That's my dead name! Some of my work might be under the name Walter, but I go by Gale now that I am openly a transgender woman. Please don't use this name if you do contact me! If you don't know about the trans community, I would highly recommend reading [this article](https://medium.com/@CassieLaBelle/help-somebody-i-love-is-transgender-part-1-what-does-that-even-mean-905d98684884) to understand our community.
+That's my dead name! Some of my work might be under the name Walter, but I go by Gale now that I am openly a transgender woman. Please don't use this name if you do contact me! If you don't know about the trans community, I would highly recommend reading [this article](https://medium.com/@CassieLaBelle/help-somebody-i-love-is-transgender-part-1-what-does-that-even-mean-905d98684884) to understand more about our community.
