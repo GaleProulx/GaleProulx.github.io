@@ -1,0 +1,46 @@
+/* Main Color Palette
+ * *******************************/
+$black: #000000;
+$blue: #55CDFC;
+$pink: #F7A8B8;
+$white: #FFFFFF;
+$white-gray: #EAEDF2;
+$box-shadow: rgba(0, 0, 0, 0.2);
+
+/* Background Angles
+ * *******************************/
+$blue-angle: 75deg;
+$pink-angle: 60deg;
+
+/* Background Cover Percentages for
+ * Two-Diagonal pattern.
+ * *******************************/
+$bak-shadow: rgba(0, 0, 0, 0.7);
+$blue-min: 85%;
+$blue-shadow: 84%;
+$pink-max: 15%;
+$pink-shadow: 16%;
+
+/* Background Cover Percentages for
+ * Pinwheel pattern.
+ * *******************************/
+ // $pleft-min: 35%;
+ // $pleft-max: 40%;
+ // $pright-min: 60%;
+ // $pright-max: 65%;
+
+/* Transparencies
+ * *******************************/
+$body-transparency: 0.78;
+$container-transparency: 0.79;
+
+/* Transition Speeds
+ * *******************************/
+ $tlink-speed: 0.3s;
+
+/* Fonts
+ * *******************************/
+@font-face {
+  font-family: "Fira Code";
+  src: url("fonts/FiraCode-VariableFont_wght.ttf");
+}

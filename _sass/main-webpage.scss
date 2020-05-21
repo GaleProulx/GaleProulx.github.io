@@ -1,0 +1,20 @@
+/* Pinwheel Background Design */
+// body {
+//   background:
+//     linear-gradient(45deg, transparent 0% $pleft-min, $pink $pleft-min $pleft-max, transparent $pleft-max 100%) fixed,
+//     linear-gradient(135deg, transparent 0% $pleft-min, $blue $pleft-min $pleft-max, transparent $pleft-max 100%) fixed,
+//     linear-gradient(45deg, transparent 0% $pright-min, $pink $pright-min $pright-max, transparent $pright-max 100%) fixed,
+//     linear-gradient(135deg, transparent 0% $pright-min, $blue $pright-min $pright-max, transparent $pright-max 100%) fixed;
+//   background-color: $white-gray;
+// }
+
+/* Two-Diagonal Background Design */
+body {
+  background:
+    linear-gradient($pink-angle, transparent $pink-max, $bak-shadow $pink-max $pink-max, transparent $pink-shadow 100%) fixed,
+    linear-gradient($pink-angle, $pink 0% $pink-max, transparent $pink-max 100%) fixed,
+    linear-gradient($blue-angle, transparent 0% $blue-shadow, $bak-shadow $blue-min $blue-min, transparent $blue-min 100%) fixed,
+    linear-gradient($blue-angle, transparent 0% $blue-min, $blue $blue-min 100%) fixed;
+  background-color: $white-gray;
+  font-family: Helvetica, Arial, sans-serif;
+}

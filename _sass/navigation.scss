@@ -1,25 +1,33 @@
-@font-face {
-  font-family: "Chelsea Market";
-  src: url("fonts/ChelseaMarket-Regular.ttf");
-}
-
 .nav-container {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  max-width: 990px;
+  min-width: 330px;
+  padding-left: 10px;
+  padding-right: 10px;
   position: sticky;
   top: 0px;
 }
 
 .top-nav {
-  background-color: #50a2b1;
+  background-color: rgba($white, $body-transparency);
   display: flex;
   flex-wrap: wrap;
-  font-family: 'Chelsea Market', cursive;
-  padding: 5px;
-  vertical-align: middle;
+  font-family: 'Fira Code';
+  justify-content: flex-start;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 
   .nav-link {
-    background-color: #5070b1;
-    border-radius: 5px;
-    color: white;
+    background-color: rgba($blue, $container-transparency);
+    border-radius: 3px;
+    color: $black;
     font-size: 1.3em;
     margin-bottom: auto;
     margin-left: 5px;
@@ -29,12 +37,12 @@
     padding-left: 10px;
     padding-right: 10px;
     text-decoration: none;
-    transition: 0.2s;
+    transition: $tlink-speed;
   }
 
   .nav-link:hover {
-    background-color: #6397d0;
-    transition: 0.2s;
+    color: $white;
+    transition: $tlink-speed;
   }
 
   .title-link {
@@ -42,9 +50,9 @@
   }
 
   .title {
-    background-color: #23509c;
-    border-radius: 10px;
-    color: #e2f7f7;
+    background-color: $pink;
+    border-radius: 3px;
+    color: $black;
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -54,18 +62,34 @@
     margin-top: 5px;
   }
 
+  .title:hover {
+    color: $white;
+    transition: $tlink-speed;
+  }
+
+  @media (max-width: 515px) {
+    a {
+      width: 100%;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+  }
 }
 
 .progress-container {
-  background: #5070b1;
+  background: $pink;
   height: 8px;
-  width: 100%;
+  width: calc(100% - 10px);
+  margin-left: 5px;
+  margin-right: 5px;
   top: 0px;
 }
 
 .progress-bar {
   height: 8px;
-  background: linear-gradient(210deg, #002c70, #184690, #184690, #5070b1);
+  background: $blue;
   width: 0%;
 }
 

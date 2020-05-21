@@ -11,17 +11,13 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
     <div class="nav-container">
       <nav class="top-nav">
-        <!-- Site Avatar if wanted... -->
-        <!-- <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a> -->
         <a class="title-link" href="/"><h1 class="title">Gale Proulx</h1></a>
-        <a class="nav-link" href="/library">Posts</a>
+        <a class="nav-link" href="/library">Blog Posts</a>
         <a class="nav-link" href="/about">About</a>
       </nav>
       <div class="progress-container">
@@ -29,18 +25,7 @@
       </div>
     </div>
 
-    <script> /*
-      var MAX_LENGTH = 10;
-      var url = window.location.href.split('/');
-      var page = url[3];
-      console.log(page.length);
-      if (page.length == 0) {
-        page = "blog";
-      }
-      document.getElementById(page).setAttribute("style", "color: #42f7c7;");
-      document.getElementById("nav-" + page).setAttribute("style", "border: #42f7c7 solid 1px; filter: invert(100%);");
-      */
-      // When the user scrolls the page, execute myFunction
+    <script>
       window.onscroll = function() {myFunction()};
 
       function myFunction() {
@@ -58,6 +43,13 @@
       </div>
 
       <div class="side-nav">
+        <div class="section-container">
+          <h2 class="section-header">Gale Proulx</h2>
+          <div class="link-container">
+            <img src="/images/email_portrait.jpg">
+            <p>Data science professional, amateur writer, and ethics enthusiast. For code, check my GitHub! For work history, look at my awesome LinkedIn page!</p>
+          </div>
+        </div>
         <div class="section-container">
           <h2 class="section-button"><a class="nav-link" href="/search">Search <img src="/svg-icons/search.svg" alt="Search Icon"></img></a></h2>
         </div>
