@@ -12,7 +12,7 @@
     border: none;
     border-bottom: 5px solid $blue;
     border-radius: 2px;
-    font-family: 'Chelsea Market', cursive;
+    font-family: 'Fira Code', cursive;
     font-size: 1.2em;
     padding: 5px;
     width: calc(100% - 10px);
@@ -29,6 +29,7 @@
 
     li {
       background-color: $blue;
+      border-left: solid 10px $pink;
 
       a {
         color: $black;

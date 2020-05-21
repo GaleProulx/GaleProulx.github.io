@@ -18,7 +18,7 @@ title: Portfolio - Capstone
       <div class="post-footer">
         <div class="category-container">
           {% for category in post.categories %}
-            <div class="category">{{ category }}</div>
+            <div class="category"><a href="{{ site.baseurl }}/{{category}}">{{ category }}</a></div>
           {% endfor %}
         </div>
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>

@@ -12,6 +12,8 @@
 
   .content-container {
     align-self: center;
+    background:
+      linear-gradient(10deg, transparent 0% calc(100% - 45px), $pink calc(100% - 45px) 100%);
     background-color: rgba($white, $body-transparency);
     border-radius: 2px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
@@ -139,6 +141,16 @@
         border-radius: 5px;
         padding-left: 5px;
         padding-right: 5px;
+
+        a {
+          color: $black;
+          text-decoration: none;
+        }
+
+        a:hover {
+          color: $white;
+          transition: $tlink-speed;
+        }
       }
 
       .category:empty {
@@ -146,13 +158,12 @@
       }
 
       .listing {
-        border-top: 3px solid transparent;
-        border-bottom: 3px solid transparent;
-        border-left: 0px;
+        border-left: solid 10px $blue;
         font-size: 1.2em;
         margin: 0px;
         margin-left: -10px;
         margin-right: -10px;
+        margin-bottom: 2px;
         padding-left: 0px;
 
         a {
@@ -174,6 +185,8 @@
 
   .side-nav {
     align-self: stretch;
+    background:
+      linear-gradient(150deg, $blue 0% 90px, transparent 90px 100%);
     background-color: rgba($white, $body-transparency);
     border-radius: 2px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);

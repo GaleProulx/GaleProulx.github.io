@@ -12,7 +12,9 @@
 }
 
 .top-nav {
+  background: linear-gradient(45deg, transparent 0% 75%, $pink 75% 100%);
   background-color: rgba($white, $body-transparency);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   display: flex;
   flex-wrap: wrap;
   font-family: 'Fira Code';
@@ -80,6 +82,7 @@
 
 .progress-container {
   background: $pink;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.12), 0 3px 1px rgba(0,0,0,0.24);
   height: 8px;
   width: calc(100% - 10px);
   margin-left: 5px;
