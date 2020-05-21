@@ -6,7 +6,7 @@
 name: Gale Proulx Portfolio
 
 # Short bio or description (displayed in the header)
-description: An assortment of short stories written by Gale Proulx.
+description: Portfolio website for Gale Proulx showcasing projects and central resource for example work.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/26929889?s=400&u=4a7211381cda6cffd6861e3dc3bfdc2837f85e24&v=4
@@ -25,8 +25,8 @@ footer-links:
   instagram:
   linkedin: galeproulx
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: walter_proulx
+  rss: GaleProulx
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/UCiH4mzkgRnj09EemmkdvypQ/
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-142544416-1
+google_analytics: UA-167314929-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
