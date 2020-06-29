@@ -3,7 +3,8 @@ layout: post
 title: Pacing Yourself
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 At the start of this project I was very excited to be able to jump into a new world and write up the fantasy story I always wanted to write. Luckily, I had the foresight of planning out what I wanted to do each week. Now that I am officially seven weeks into this project, that preparation was well worth it. I am finding that despite all that is changing in my life, from protests to jobs and even other personal projects, I have been able to keep on time with every single deadline. The key to all of this seems to be pacing.

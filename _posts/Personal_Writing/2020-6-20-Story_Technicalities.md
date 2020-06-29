@@ -3,7 +3,8 @@ layout: post
 title: Story Technicalities
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 Right from the start of this project four years ago, one of my main goals as a writer was to subvert expectations and create an inexplicably unfair situation for a character that had no choice but to do what was right or give up. I wanted a child to be faced with a very really situation, and explore what they might produce. In order to make this happen, a rather extreme plot had to be introduced. Over the years of developing this idea, I have realized just how hard it is to reach this goal in a believable way.

@@ -3,7 +3,8 @@ layout: post
 title: Sidetracked Progress
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 Working through a large, differently structured project such as making a book has taught me a lot. Not only am I learning more about the creative process that all writers have to go through, but I'm also learning more about a part of my professional appearance that I never got from twelve years of school: maintaining an online presence takes a huge amount of effort. The Unintentional Calamity Project has an online presence, but this is only part of my professional image that I want portrayed online.

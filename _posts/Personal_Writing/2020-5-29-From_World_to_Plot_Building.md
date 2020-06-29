@@ -3,7 +3,8 @@ layout: post
 title: From World to Plot Building
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 Every author has their preference in how to start a book and no preference is objectively better than another. I'm sure there are many great authors who are capable of creating and keeping track of a vast, fantastical world in their head. As I mentioned when I started this project, I am not the type of author that can keep track of everything in their head. I need documentation to keep everything straight. I want to make sure make sure the logic is very solid which is why I am devoting so much time into preparing the world setting before I write in characters and a plot. Luckily, as I planned, I am starting to make the transition from world building into plot development.

@@ -3,7 +3,8 @@ layout: post
 title: Motivation Rut
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 Every professional has different needs to create a productive environment. Some people need to be in an office to help them focus. Others need a quiet space. Social settings help inspire some people while nature can be a good outlet for others. As I continue writing more content for the Unintentional Calamity Project I find that my needs to inspire creativity and cultivate motivation are not being met. In an attempt to solve the problem, here's an outline of my professional motivation triggers and what might help me (and others reading this) explain how motivation works.

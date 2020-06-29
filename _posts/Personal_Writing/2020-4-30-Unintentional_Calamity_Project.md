@@ -3,7 +3,8 @@ layout: post
 title: Unintentional Calamity Project Announcement
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 It was four years ago on a overcast Thursday afternoon in November my young first-year legs were excitedly strutting into our local movie theater. The next installment in the Harry Potter series had hit theaters and no amount of homework was going to stop me from seeing what happened next in the wizarding world.
