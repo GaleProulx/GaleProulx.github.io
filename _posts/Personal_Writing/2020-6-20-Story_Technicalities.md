@@ -3,7 +3,8 @@ layout: post
 title: Story Technicalities
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 Right from the start of this project four years ago, one of my main goals as a writer was to subvert expectations and create an inexplicably unfair situation for a character that had no choice but to do what was right or give up. I wanted a child to be faced with a very really situation, and explore what they might produce. In order to make this happen, a rather extreme plot had to be introduced. Over the years of developing this idea, I have realized just how hard it is to reach this goal in a believable way.
@@ -34,7 +35,7 @@ Regardless of the final plot I decide to use, this technicality is important and
 
 # Hurdle Number Three: Sequel Development
 
-This whole project started out with inspiration from Fantastic Beasts and Where to Find Them as mentioned in my [first post](https://galeproulx.github.io/personal_writing/Unintentional_Calamity_Project/). I wanted to create a world of magic that was deeply integrated into society well beyond what the Harry Potter world imagined. The whole point of the Unintentional Calamity is to set up that inspired world. Technically, this book is a prequel. As I move forward with plot development and world building, I find myself moving further away from that original inspiration. This story is much less about magic and more about exploring what a real reaction would entail when told to "save the world."
+This whole project started out with inspiration from Fantastic Beasts and Where to Find Them as mentioned in my [first post]({% post_url 2020-4-30-Unintentional_Calamity_Project %}). I wanted to create a world of magic that was deeply integrated into society well beyond what the Harry Potter world imagined. The whole point of the Unintentional Calamity is to set up that inspired world. Technically, this book is a prequel. As I move forward with plot development and world building, I find myself moving further away from that original inspiration. This story is much less about magic and more about exploring what a real reaction would entail when told to "save the world."
 
 Keeping a sequel in mind is hard when I don't have the outline or foresight to know what that sequel will be. This will hopefully become more clear when I actually get to writing the first draft of the book.
 

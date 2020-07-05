@@ -3,7 +3,8 @@ layout: post
 title: Creative Expression
 author: Gale Proulx
 published: true
-categories: Personal_Writing
+categories:
+  - Personal Writing
 ---
 
 One of the most important aspects I have identified for professional and personal development is having the proper outlets for creative expression. Humans always need some way to express how they are feeling. Often times that creative expression is shown thrown the arts. Dancing, singing, theater, or any other performative arts are obvious examples for conveying emotions that others can understand at a deep level. Paintings, books, photography and other timeless pieces of raw, captured emotion are just windows into what a person is feeling. Unfortunately, I can't dance, I'm working on becoming a good writer, and my singing career died when I couldn't find an a capella group to join, so let's take a look at what creativity looks like for the less art-inclined folks.
