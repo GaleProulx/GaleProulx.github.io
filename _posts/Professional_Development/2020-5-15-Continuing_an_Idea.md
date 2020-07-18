@@ -4,7 +4,7 @@ title: Continuing an Idea
 author: Gale Proulx
 published: true
 categories:
-  - Personal Writing
+  - Professional Development
 ---
 
 One of the things that is not apparent in a large portion of the world of academia is how important documentation is. Smaller projects tend to have no need for documentation because the purpose of that small project is quite apparent. Programming assignments are often very focused on exploring one particular data structure or concept. The scope of a project tends to not breach multiple files. Additionally, the amount of time it takes to complete a homework assignment is never greater than one year. All of these factors make documentation at a small level quite useless as there is much work that needs to be done and never referenced again.

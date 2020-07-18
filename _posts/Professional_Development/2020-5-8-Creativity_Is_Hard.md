@@ -4,7 +4,7 @@ title: Creativity is Hard
 author: Gale Proulx
 published: true
 categories:
-  - Personal Writing
+  - Professional Development
 ---
 
 Creativity for a data scientist means something much different than any given artistic field. For the field of Data Science, creativity sprouts from collaboration and unique solutions to a given problem. While solution to a machine learning problem could be a beautiful orchestration of math and business mindset combined to present a beautiful, informative visualization, there are limits. A writers world is much more relaxed on creative guidelines, which is what I find I struggle with when trying to write a creative piece.

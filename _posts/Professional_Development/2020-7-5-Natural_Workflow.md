@@ -4,7 +4,7 @@ title: Natural Workflow
 author: Gale Proulx
 published: true
 categories:
-  - Personal Writing
+  - Professional Development
 ---
 
 For any professional, sitting down and magically producing your best work is very hard to do. Humans, by their very nature, don't do well with creating original, high quality content. There always has to be some iterative process. Unfortunately, the American portrayal of "original ideas" is often wildly ignorant of the history that directly contradicts the simplified American Dream success story. To break down these preconceptions and find out how "great minds" actually work, let's look back at what famous inventors actually did.
